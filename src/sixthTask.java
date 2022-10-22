@@ -17,7 +17,7 @@ public class sixthTask {
 
         float oneKilo = 1000;
         float allWeightKg = allWeihgtProduct / oneKilo;
-        System.out.println(allWeightKg);
+        System.out.println(allWeightKg + " кг");
 
 
     }

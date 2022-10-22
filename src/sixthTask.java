@@ -8,7 +8,7 @@ public class sixthTask {
         int allWeihgtMilk = milk * weihgtMilk;
         int ice = 2;
         int weightIce = 100;
-        int allweihgtIce = ice + weightIce;
+        int allweihgtIce = ice * weightIce;
         int egg = 4;
         int weightEgg = 70;
         int allWeightEgg = egg * weightEgg;
